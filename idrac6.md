@@ -36,6 +36,14 @@ detach: ctrl + alt-gr + \
 
 sometimes first attach doesn't really work (console doesn't react), detach and reattach and it should work
 
+# power control
+
+power off: `stop /system1`
+
+power on: `start /system1`
+
+reset: `reset /system1`
+
 # cheatsheets
 
 http://www.gooksu.com/2015/04/27/racadm-quick-dirty-cheatsheet/
